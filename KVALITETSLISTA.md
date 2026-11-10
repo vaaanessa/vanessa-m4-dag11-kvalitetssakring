@@ -38,4 +38,4 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 
 - [x] Commit per ändring, med begripliga meddelanden
 - [x] Allt är pushat
-- [ ] Live-sidan visar senaste versionen
+- [x] Live-sidan visar senaste versionen
