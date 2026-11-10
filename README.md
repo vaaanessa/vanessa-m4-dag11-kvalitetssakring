@@ -89,3 +89,15 @@ I formuläret fyller du i:
 Jag rättade alla tio fel. Länken från kontakt.htm till kontakt.html
 följde med i samma commit som kaffebildens alt-text (370103a),
 så två rättningar hamnade i en gemensam commit.
+
+## Lighthouse
+
+### Före rättning
+
+- Mobil: 70/100 i Accessibility.
+- Desktop: 77/100 i Accessibility.
+
+### Efter rättning
+
+- Mobil: 100/100 i Accessibility i både Edge och Chrome.
+- Desktop: 100/100 i Accessibility i både Edge och Chrome.
