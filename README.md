@@ -1,6 +1,6 @@
 # Dag 11 · Sammanställning och kvalitetssäkring
 
-*Modul 4, UI/UX & Frontendutveckling, Lexicon IT-Proffs*
+_Modul 4, UI/UX & Frontendutveckling, Lexicon IT-Proffs_
 
 ## Vad du ska göra idag
 
@@ -12,8 +12,8 @@ Att skriva kod är hälften av jobbet. Den andra hälften är att kontrollera de
 
 ## Så arbetar du (samma som alltid)
 
-1. **Forka** dagens repo på GitHub (*Fork → Create fork*).
-2. **Klona din fork:** *Code → HTTPS → kopiera adressen*. I terminalen (Ctrl+ö i VS Code): `git clone <adressen>`. Öppna den nya mappen i VS Code och starta *Live Server*.
+1. **Forka** dagens repo på GitHub (_Fork → Create fork_).
+2. **Klona din fork:** _Code → HTTPS → kopiera adressen_. I terminalen (Ctrl+ö i VS Code): `git clone <adressen>`. Öppna den nya mappen i VS Code och starta _Live Server_.
 3. **Gör uppgiften.** Spara och kontrollera i webbläsaren efter varje steg. Gör en commit efter varje avslutat steg: `git add .` och `git commit -m "Beskriv vad du gjorde"`.
 4. **Skicka upp** när du är klar: `git push`.
 5. **Lämna in i Microsoft Forms.**
@@ -28,7 +28,7 @@ Fastnar du: skriv ner exakt var och vad du försökt, och ta det först i nästa
 
 ### Steg 2. Kör validatorn och Lighthouse
 
-Kör `index.html` och `kontakt.html` genom validator.w3.org och skriv upp felen. Kör sedan Lighthouse (DevTools, fliken Lighthouse, kryssa Accessibility, *Analyze*) på `index.html` och **skriv upp poängen** (före).
+Kör `index.html` och `kontakt.html` genom validator.w3.org och skriv upp felen. Kör sedan Lighthouse (DevTools, fliken Lighthouse, kryssa Accessibility, _Analyze_) på `index.html` och **skriv upp poängen** (före).
 
 ### Steg 3. Hitta de tio felen
 
@@ -83,3 +83,9 @@ I formuläret fyller du i:
 - Bonus: din egen design. Styla en enkel sida med din Figma-design från modul 3 och din `tokens.css` från dag 8. Lägg den i en egen mapp i din fork, till exempel `min-design/`. Ingen mall, ingen inlämning, och du kan visa den dag 12 om du vill.
 - Lägg till en egen checklista för portföljen.
 - Kör Lighthouse Performance och skriv ner de tre viktigaste förbättringsförslagen.
+
+## Kommentar om commits
+
+Jag rättade alla tio fel. Länken från kontakt.htm till kontakt.html
+följde med i samma commit som kaffebildens alt-text (370103a),
+så två rättningar hamnade i en gemensam commit.
